@@ -15,8 +15,8 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
     - 📫 How to reach me: <a href="mailto:bayuindrakusuma05@gmail.com">Email me!</a>  </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bayuik&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuik&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=bayuik&hide=contribs,prs&show_icons=true&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=8B64FF" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuik&layout=compact&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" height=180 />
 </p>
 
 ### Let's connect!
