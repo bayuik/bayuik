@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Bayu!
+# Hi there 👋 , I'm Bayuik!
 Currently I am open to any opportunity especially in IT as a Web Developer. 
 
 ### Tools:
