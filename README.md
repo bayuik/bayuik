@@ -9,7 +9,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning ReactJs and Laravel</br>
+    - 🌱 I’m currently learning ReactJs and Flutter</br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:bayuindrakusuma05@gmail.com">Email me!</a>  </br>
 </details>
