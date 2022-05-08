@@ -1,5 +1,4 @@
 # Hi there 👋 , I'm Bayuik!
-Currently I am open to any opportunity especially in IT as a Web Developer. 
 
 ### Tools:
 <p>
@@ -23,6 +22,6 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
 ### Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/bayuik" target="blank"><img src="https://img.shields.io/badge/Bayu_Indra_Kusuma-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://facebook.com/ibayuk" target="blank"><img src="https://img.shields.io/badge/BAYU_IK-30302f?style=flat&logo=facebook" /></a>
-    <a href="https://www.instagram.com/bayuik_" target="blank"><img src="https://img.shields.io/badge/@bayuik_-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://facebook.com/ibayuk" target="blank"><img src="https://img.shields.io/badge/Bayuik-30302f?style=flat&logo=facebook" /></a>
+    <a href="https://medium.com/@bayuik" target="blank"><img src="https://img.shields.io/badge/@bayuik_-30302f?style=flat&logo=medium" /></a>
 </p>
