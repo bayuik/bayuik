@@ -22,7 +22,5 @@
 <h3 align='center'>Let's connect</h3>
 <p align='center'>
     <a href="https://www.linkedin.com/in/bayuik" target="blank"><img src="https://img.shields.io/badge/Bayu_Indra_Kusuma-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://facebook.com/ibayuk" target="blank"><img src="https://img.shields.io/badge/Bayuik-30302f?style=flat&logo=facebook" /></a>
     <a href="https://medium.com/@bayuik" target="blank"><img src="https://img.shields.io/badge/@bayuik_-30302f?style=flat&logo=medium" /></a>
-    <a href="mailto:bayuindrakusuma05@gmail.com"><img src="https://img.shields.io/badge/bayuik_-30302f?style=flat&logo=gmail" /></a>
 </p>
