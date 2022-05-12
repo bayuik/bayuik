@@ -1,10 +1,10 @@
 <h3 align="center">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<p align="center">
-  <a href="https://github.com/bayuik/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Lorem+ipsum+dolor+sit+amet"></a>
-</p>
+</h3> <br/><br/>
+<!-- <p align="center">
+  <a href="https://github.com/bayuik/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Belajar+itu+harus;pintar+itu+bonus"></a>
+</p> -->
 
 <p align='center'>
       <a href="https://github.com/bayuik/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuik&layout=compact&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" height=140 /></a>
