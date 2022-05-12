@@ -15,7 +15,7 @@
    </a>
 </p>
 <div align='center'>
-     <summary><strong>What i am learning/working on these days</strong></summary>
+     <p><strong>What i am learning/working on these days</strong></p>
     - 🌱 I’m currently learning ReactJs and NodeJs with Express Framework</br>
     - 💬 Ask me about anything.</br>
 </div>
