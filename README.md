@@ -12,8 +12,11 @@
        <a href="https://github.com/bayuik/"><img width="735px" alt="bayuik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bayuik&theme=github&line=8B64FF&point=d62976" /></a><br/><br/>
        <a href="https://github.com/bayuik">
    <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=bayuik&column=7" alt="bayuik's trophy stats"/>
-   </a>
+   </a><br/><br/>
+     <a href="https://wakatime.com/@bayuik">
+   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=bayuik&layout=compact&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" alt="bayuik's wakatime stats"/>
 </p>
+
 <div align='center'>
      <p><strong>What i am learning/working on these days</strong></p>
     - 🌱 I’m currently learning ReactJs and NodeJs with Express Framework</br>
