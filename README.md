@@ -19,7 +19,7 @@
 
 <div align='center'>
      <p><strong>What i am learning/working on these days</strong></p>
-    - 🌱 I’m currently learning machine leaerning</br>
+    - 🌱 I’m currently learning about machine learning</br>
     - 💬 Ask me about anything.</br>
 </div>
 <h3 align='center'>Let's connect</h3>
