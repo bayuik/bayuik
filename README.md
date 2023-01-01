@@ -16,7 +16,7 @@
 
 <div align='center'>
      <p><strong>What i am learning/working on these days</strong></p>
-    - 🌱 I’m currently learning about Machine Learning and Flutter</br>
+    - 🌱 I’m currently learning about Machine Learning and ReactJS</br>
     - 💬 Ask me about anything.</br>
 </div>
 <h3 align='center'>Let's connect</h3>
