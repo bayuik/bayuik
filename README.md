@@ -16,7 +16,7 @@
 
 <div align='center'>
      <p><strong>What i am learning/working on these days</strong></p>
-    - Odoo Developer
+    - Odoo Developer</br>
     - 🌱 I’m currently learning about Machine Learning</br>
     - 💬 Ask me about anything.</br>
 </div>
