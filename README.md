@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> <br/><br/>
 <p align="center">
-  <a href="https://github.com/bayuik/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Belajar+itu+harus;pintar+itu+bonus"></a>
+<!--   <a href="https://github.com/bayuik/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Belajar+itu+harus;pintar+itu+bonus"></a> -->
 </p>
 
 <p align='center'>
@@ -23,5 +23,5 @@
 <h3 align='center'>Let's connect</h3>
 <p align='center'>
     <a href="https://www.linkedin.com/in/bayuik" target="blank"><img src="https://img.shields.io/badge/Bayu_Indra_Kusuma-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bayuik" target="blank"><img src="https://img.shields.io/badge/@bayuik_-30302f?style=flat&logo=medium" /></a>
+<!--     <a href="https://medium.com/@bayuik" target="blank"><img src="https://img.shields.io/badge/@bayuik_-30302f?style=flat&logo=medium" /></a> -->
 </p>
